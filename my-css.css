@@ -1,0 +1,33 @@
+h1 {
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    background: grey;   
+  }
+  img {
+    width: 400px;
+    height: 300px
+  }
+  h2 {
+    color: blue;
+    font-size: 50px;
+    font-weight: bold;
+    background: white; 
+  }
+  p {
+   color:black;
+   font-size: 20px;
+   font-weight: bold;
+   background: white;
+  }
+  h3 {
+    color: green;
+    font-size: 40px;
+    font-weight: bold;
+    background: white;
+  }
+  input, label{
+     display: inline-block;
+     vertical-align: middle;
+     margin: -60px 170;
+    }
