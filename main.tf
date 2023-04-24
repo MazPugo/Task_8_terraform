@@ -1,13 +1,9 @@
-
-resource "google_project" "calm-mariner-344718" {
-  name       = "calm-mariner"
+resource "google_project" "my_project" {
+  name = "My Project"
   project_id = "calm-mariner-344718"
-
 }
+
 resource "google_app_engine_application" "app" {
-  project     = google_project.calm-mariner-344718
-  location_id = "europe-west2"
+  project = google_project.my_project.project_id
+  location_id = "europe -west2"
 }
-
-
-
