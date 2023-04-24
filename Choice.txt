@@ -1,12 +1,19 @@
-Choice
+Bringing it all together
 
 
-I have chosen the way to build the web application with Google App Engine.
+﻿Goal of the task
+The goal is to apply all the knowledge we gathered along the way to deploy a simple website! There is also a bonus task that goes a bit beyond what we’ve learned.
+Tips for task 8:
 
-I think that this is the most accessible way to create the web aplication. I have used at my work an html page that I have created for my Kodilla Bootcam in Data Science
 
-There re also the disadvantages of Google App Engine:
+I have chosen to deploy a static website app with Google App Engine.
+ and the most easiest 
+I think that this is the most accessible and the most easiest way to create the web aplication. 
 
-CPU-intensive operations in GAE are slow and expensive to perform because one physical server may be serving several discreet, unrelated app engine users at once who need to share the CPU.
+I have used at my project an html file and css file that I have created 
+for a project at Kodilla Bootcam in Data Science
 
 I have tried to deploy kubernates and I have managed the create the cluster but I had some difficulties to finish the task.
+
+Here you can find the link to my website
+website link: https://calm-mariner-344718.nw.r.appspot.com/
